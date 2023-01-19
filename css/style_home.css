@@ -353,6 +353,7 @@ img.img-circle.team-img {
 #contact-section {
 	padding: 120px 0 60px 0;
 	background-color: #f6f6f6;
+	height: 85vh;
 }
 #contact-section h3 {
 	font-size: 20px;
