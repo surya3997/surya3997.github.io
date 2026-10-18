@@ -1,3 +1,6 @@
+# Current AdMob publisher
+google.com, pub-7775174760569344, DIRECT, f08c47fec0942fa0
+
 ## Updated at: 2022-02-14
 
 facebook.com, 489497186047793, RESELLER, c3e20eee3f780d68
